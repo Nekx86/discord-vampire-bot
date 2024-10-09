@@ -16,7 +16,7 @@ Welcome to the **My Discord Bot** GitHub repository! This bot is built using [Di
 - [Discord.js](https://discord.js.org/) v14.0.0 or higher
 
 ## Terms of Service
-Welcome to [My Bot] ("Service"). By using this Service, you agree to the following terms and conditions. If you do not agree with any of these terms, you may not use the Service.
+Welcome to [Vampire Bot] ("Service"). By using this Service, you agree to the following terms and conditions. If you do not agree with any of these terms, you may not use the Service.
 
 1. Use of the Service
 You must follow all rules and guidelines outlined for using this Service, including but not limited to:
@@ -50,3 +50,54 @@ We may suspend or terminate your access to the Service at any time, with or with
 
 8. Contact Us
 If you have any questions regarding these terms, please contact us at [info@ndxentertainment.com].
+
+
+#Privacy Policy
+Privacy Policy
+Your privacy is important to us. This Privacy Policy explains how [Vampire Bot] ("Service", "we", "us", or "our") collects, uses, and protects your personal information when you use the Service.
+
+1. Information We Collect
+We may collect the following types of information when you use our Service:
+
+a. User Data
+Discord Username and ID: We collect your Discord username and ID to provide our services, such as executing commands or managing in-game events.
+Messages: We may temporarily store messages or commands you send to the bot to process them and provide responses. We do not store this data long-term.
+b. Log Data
+We collect information that your browser or device sends whenever you interact with the Service. This may include:
+
+IP address
+Browser type
+Device information
+Date and time of your request
+2. How We Use Your Information
+We use the information we collect for the following purposes:
+
+To operate and maintain the Service.
+To provide, personalize, and improve our Service based on your interactions.
+To monitor and prevent issues like spam or abuse.
+To communicate with you regarding updates, issues, or important changes to the Service.
+3. Data Sharing and Disclosure
+We do not sell, trade, or rent your personal information to third parties. However, we may share your information in the following situations:
+
+With your consent: We may share your information when you give us explicit permission to do so.
+For legal reasons: If required by law or to protect our rights, we may disclose your information to authorities or other parties.
+4. Data Security
+We take reasonable measures to protect your data. However, please note that no method of transmission over the internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your data, we cannot guarantee its absolute security.
+
+5. Data Retention
+We retain your information only for as long as necessary to fulfill the purposes for which it was collected. Once this data is no longer needed, we will securely delete it.
+
+6. Your Rights
+You have the right to:
+
+Access the personal information we have about you.
+Request that we correct or delete your personal data.
+Withdraw consent for data processing where applicable.
+To exercise these rights, please contact us at [your-email@example.com].
+
+7. Changes to the Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted here with an updated revision date. By continuing to use the Service, you agree to the updated Privacy Policy.
+
+8. Contact Us
+If you have any questions or concerns regarding this Privacy Policy, please contact us at [info@ndxentertainment.com].
+
